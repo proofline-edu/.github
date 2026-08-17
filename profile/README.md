@@ -197,22 +197,66 @@ Every texture, sound, character and letterform in the game is **generated at
 runtime from code**. The only raster files that ship are the application icon in
 two sizes and the boot-splash wordmark.
 
+Source is closed during judging — the game itself is fully playable right now at
+**[proofline.pages.dev](https://proofline.pages.dev/)**, with no install and no account.
+
 <br>
 
 ---
 
-## Repositories
+## The team
 
-| repository | what it is | status |
-|:---|:---|:---|
-| **proofline-games** | *Beyond the Page* — the game. Vite + TypeScript + Three.js. | Private |
-| **proposal** | Submission proposal and 3-minute pitch script (LaTeX). | Private |
-| **PRD** | Product spec, design system and competition planning. | Private |
-| **proofline-v1** | The original browser-game monorepo, superseded after the concept pivot. | Archived |
-| **.github** | This profile. | — |
+> Six contributors share one product responsibility: turn a real scam-pressure
+> moment into a game that can be played, discussed, and improved.
 
-Source is closed during judging. The game itself is fully playable right now at
-**[proofline.pages.dev](https://proofline.pages.dev/)** — no install, no account.
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="assets/team/attar.png" width="120" alt="Aththariq Lisan Qur'an Daulah Sentono"><br>
+<b>Aththariq Lisan Qur'an Daulah Sentono</b><br>
+<sub>Product &amp; Game Direction</sub><br><br>
+<a href="https://github.com/aththariq"><img src="https://img.shields.io/badge/aththariq-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @aththariq"></a><br>
+<a href="https://www.linkedin.com/in/aththariqlisan/"><img src="https://img.shields.io/badge/aththariqlisan-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn aththariqlisan"></a>
+</td>
+<td align="center" width="33%">
+<img src="assets/team/rafi.png" width="120" alt="Muhammad Rafi Dhiyaulhaq"><br>
+<b>Muhammad Rafi Dhiyaulhaq</b><br>
+<sub>Narrative &amp; Presentation</sub><br><br>
+<a href="https://github.com/rafidhiyaulh"><img src="https://img.shields.io/badge/rafidhiyaulh-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @rafidhiyaulh"></a><br>
+<a href="https://www.linkedin.com/in/rafidhiyaulh/"><img src="https://img.shields.io/badge/rafidhiyaulh-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn rafidhiyaulh"></a>
+</td>
+<td align="center" width="33%">
+<img src="assets/team/alessandro.png" width="120" alt="Alessandro Jusack Hasian"><br>
+<b>Alessandro Jusack Hasian</b><br>
+<sub>Game Development Support</sub><br><br>
+<a href="https://github.com/Reasondro"><img src="https://img.shields.io/badge/Reasondro-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @Reasondro"></a><br>
+<a href="https://www.linkedin.com/in/alessandro-j-h/"><img src="https://img.shields.io/badge/alessandro--j--h-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn alessandro-j-h"></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="assets/team/dama.png" width="120" alt="Dama Dhananjaya Daliman"><br>
+<b>Dama Dhananjaya Daliman</b><br>
+<sub>Game Integration</sub><br><br>
+<a href="https://github.com/RunningPie"><img src="https://img.shields.io/badge/RunningPie-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @RunningPie"></a><br>
+<a href="https://www.linkedin.com/in/damaddaliman/"><img src="https://img.shields.io/badge/damaddaliman-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn damaddaliman"></a>
+</td>
+<td align="center" width="33%">
+<img src="assets/team/eleanor.png" width="120" alt="Eleanor Cordelia"><br>
+<b>Eleanor Cordelia</b><br>
+<sub>Research &amp; Visual Communication</sub><br><br>
+<a href="https://github.com/EleanorCordelia"><img src="https://img.shields.io/badge/EleanorCordelia-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @EleanorCordelia"></a><br>
+<a href="https://www.linkedin.com/in/eleanorcordelia/"><img src="https://img.shields.io/badge/eleanorcordelia-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn eleanorcordelia"></a>
+</td>
+<td align="center" width="33%">
+<img src="assets/team/faiz.png" width="120" alt="Muhammad Faiz Atharrahman"><br>
+<b>Muhammad Faiz Atharrahman</b><br>
+<sub>Testing &amp; Quality</sub><br><br>
+<a href="https://github.com/faizath"><img src="https://img.shields.io/badge/faizath-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @faizath"></a><br>
+<a href="https://www.linkedin.com/in/faizath/"><img src="https://img.shields.io/badge/faizath-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn faizath"></a>
+</td>
+</tr>
+</table>
 
 <br>
 
