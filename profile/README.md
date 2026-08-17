@@ -216,21 +216,21 @@ Source is closed during judging — the game itself is fully playable right now 
 <b>Aththariq Lisan Qur'an Daulah Sentono</b><br>
 <sub>Product &amp; Game Direction</sub><br><br>
 <a href="https://github.com/aththariq"><img src="https://img.shields.io/badge/aththariq-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @aththariq"></a><br>
-<a href="https://www.linkedin.com/in/aththariqlisan/"><img src="https://img.shields.io/badge/aththariqlisan-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn aththariqlisan"></a>
+<a href="https://www.linkedin.com/in/aththariqlisan/"><img src="https://img.shields.io/badge/aththariqlisan-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&style=flat-square" alt="LinkedIn aththariqlisan"></a>
 </td>
 <td align="center" width="33%">
 <img src="assets/team/rafi.png" width="120" alt="Muhammad Rafi Dhiyaulhaq"><br>
 <b>Muhammad Rafi Dhiyaulhaq</b><br>
 <sub>Narrative &amp; Presentation</sub><br><br>
 <a href="https://github.com/rafidhiyaulh"><img src="https://img.shields.io/badge/rafidhiyaulh-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @rafidhiyaulh"></a><br>
-<a href="https://www.linkedin.com/in/rafidhiyaulh/"><img src="https://img.shields.io/badge/rafidhiyaulh-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn rafidhiyaulh"></a>
+<a href="https://www.linkedin.com/in/rafidhiyaulh/"><img src="https://img.shields.io/badge/rafidhiyaulh-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&style=flat-square" alt="LinkedIn rafidhiyaulh"></a>
 </td>
 <td align="center" width="33%">
 <img src="assets/team/alessandro.png" width="120" alt="Alessandro Jusack Hasian"><br>
 <b>Alessandro Jusack Hasian</b><br>
 <sub>Game Development Support</sub><br><br>
 <a href="https://github.com/Reasondro"><img src="https://img.shields.io/badge/Reasondro-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @Reasondro"></a><br>
-<a href="https://www.linkedin.com/in/alessandro-j-h/"><img src="https://img.shields.io/badge/alessandro--j--h-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn alessandro-j-h"></a>
+<a href="https://www.linkedin.com/in/alessandro-j-h/"><img src="https://img.shields.io/badge/alessandro--j--h-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&style=flat-square" alt="LinkedIn alessandro-j-h"></a>
 </td>
 </tr>
 <tr>
@@ -239,21 +239,21 @@ Source is closed during judging — the game itself is fully playable right now 
 <b>Dama Dhananjaya Daliman</b><br>
 <sub>Game Integration</sub><br><br>
 <a href="https://github.com/RunningPie"><img src="https://img.shields.io/badge/RunningPie-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @RunningPie"></a><br>
-<a href="https://www.linkedin.com/in/damaddaliman/"><img src="https://img.shields.io/badge/damaddaliman-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn damaddaliman"></a>
+<a href="https://www.linkedin.com/in/damaddaliman/"><img src="https://img.shields.io/badge/damaddaliman-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&style=flat-square" alt="LinkedIn damaddaliman"></a>
 </td>
 <td align="center" width="33%">
 <img src="assets/team/eleanor.png" width="120" alt="Eleanor Cordelia"><br>
 <b>Eleanor Cordelia</b><br>
 <sub>Research &amp; Visual Communication</sub><br><br>
 <a href="https://github.com/EleanorCordelia"><img src="https://img.shields.io/badge/EleanorCordelia-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @EleanorCordelia"></a><br>
-<a href="https://www.linkedin.com/in/eleanorcordelia/"><img src="https://img.shields.io/badge/eleanorcordelia-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn eleanorcordelia"></a>
+<a href="https://www.linkedin.com/in/eleanorcordelia/"><img src="https://img.shields.io/badge/eleanorcordelia-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&style=flat-square" alt="LinkedIn eleanorcordelia"></a>
 </td>
 <td align="center" width="33%">
 <img src="assets/team/faiz.png" width="120" alt="Muhammad Faiz Atharrahman"><br>
 <b>Muhammad Faiz Atharrahman</b><br>
 <sub>Testing &amp; Quality</sub><br><br>
 <a href="https://github.com/faizath"><img src="https://img.shields.io/badge/faizath-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @faizath"></a><br>
-<a href="https://www.linkedin.com/in/faizath/"><img src="https://img.shields.io/badge/faizath-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn faizath"></a>
+<a href="https://www.linkedin.com/in/faizath/"><img src="https://img.shields.io/badge/faizath-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&style=flat-square" alt="LinkedIn faizath"></a>
 </td>
 </tr>
 </table>
