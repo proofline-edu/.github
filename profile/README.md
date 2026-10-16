@@ -1,271 +1,217 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Proofline — Beyond the Page" width="100%">
+<img src="assets/banner.png" alt="Proofline logo" width="100%">
 
-### Set your standard of proof **before** you look.
+# 📖 Proofline
 
-A browser game about the moment you decide what would be enough.<br>
-Free, no install, no accounts, nothing sent anywhere once it has loaded.
+**Set your standard of proof before you look.**
 
-<br>
+A free browser game where you decide how much evidence an action deserves, then go into the media worlds to find it.
 
-[![Play in your browser](https://img.shields.io/badge/▶_Play_in_your_browser-proofline.pages.dev-0b1e3f?style=for-the-badge&labelColor=000816)](https://proofline.pages.dev/)
+[![Live App](https://img.shields.io/badge/Live_App-proofline.pages.dev-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://proofline.pages.dev)
+[![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=AC8JtgQMbsE)
 
-<br>
-
-![UNESCO Youth Hackathon 2026](https://img.shields.io/badge/UNESCO_Youth_Hackathon_2026-MIL_Education-000816?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178c6?style=flat-square)
-![Three.js](https://img.shields.io/badge/Three.js-0.185-000000?style=flat-square)
-![Vite](https://img.shields.io/badge/Vite-7-646cff?style=flat-square)
-![WebGL](https://img.shields.io/badge/WebGL-cel--shaded-990000?style=flat-square)
-![No backend](https://img.shields.io/badge/backend-none-2ea043?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-0.185-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-cel--shaded-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-mobile_port-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-hosting-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)
 
 </div>
 
-<br>
+---
 
-> ### What evidence is enough before I take *this* action?
+## 🎬 Demo
 
-That is the whole game. Not *is this true* — **what does this action deserve.**
-
-<br>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=AC8JtgQMbsE">
+    <img src="assets/proofline.webp" alt="Proofline demo" width="100%">
+  </a>
+  <br>
+  <sub>▶ Click to watch the full demo on YouTube</sub>
+</div>
 
 ---
 
-## Not a spot-the-scam quiz
+## 🔍 What is Proofline?
 
-The obvious way to build a game about scams is a quiz: show a claim, ask "real or
-fake", grade the answer. That teaches pattern-matching on surface cues —
-*countdowns mean scam*, *bad design means scam*, *verified badges mean safe* —
-which is exactly the wrong lesson, and it collapses the first time a legitimate
-seller runs a real sale.
+Proofline (the game is called *Beyond the Page*) is a cel-shaded storybook adventure for teenagers about the moment before they act on a message, an offer or a request. It never asks whether a claim is true. It asks what the claim wants you to *do*, and how much evidence that action deserves. The same StudyBox laptop offer comes back twice: first it asks you to save it for later, which is cheap and reversible, and later it asks you to move your savings off the marketplace and upload your ID before a countdown ends.
 
-**So this game never asks whether a claim is true. It asks what a claim is asking
-you to _do_, and what evidence that action deserves.**
+Each case starts on a storybook page standing on a desk. Before seeing any evidence, you draw the proof line: how much Provenance, Transparency and Independent Corroboration this action needs, and how many separate sources must agree. Then Pip leaves the page and walks into the ads, product pages, photos, chats and payment screens the claim came from. Reading something closely costs a Route Token, and only four pieces of evidence fit in the carry rack. At the end, the Gate weighs what you carried against the line you drew and shows exactly what was missing, or what was enough. It runs in the browser with no install, no account and no backend.
 
-The same claim appears twice. *"StudyBox School Laptop. 70% Off. Only Three Left.
-Full Money-Back Guarantee."* First it asks you to save the offer to compare later
-— cheap, reversible, nobody exposed. Later it asks you to move your savings
-outside the marketplace and upload your identity documents before the countdown
-ends. The claim has not changed. The reversibility, the potential loss and the
-required evidence have changed completely.
+### 🎯 Built for
 
-<br>
+Proofline was built for **[UNESCO Youth Hackathon 2026](https://www.unesco.org/en/articles/unesco-youth-hackathon-2026)**, under the *MIL Education* track.
 
 ---
 
-## How it works
-
-### 1. Draw the line first
-
-Before investigating — before seeing a single piece of evidence — you commit to a
-threshold: how much **Provenance**, **Transparency** and **Independent
-Corroboration** this action demands, and how many genuinely separate sources must
-agree.
-
-Committing first is what turns a threshold into a *policy* — something that can be
-wrong in a way you can learn from — rather than a rationalisation of whatever you
-happened to find.
-
-<img src="assets/proofline-plate.jpg" alt="Drawing the proof line" width="100%">
-
-<br>
-
-### 2. Evidence is scarce, and choosing is the game
-
-Advertisements, product pages, photographs, chats, voice messages, reviews, source
-trails and payment screens are **physical worlds** you enter, explore, and carry
-evidence out of.
-
-Route Tokens buy deep investigation. Carry slots limit what reaches the Gate.
-Without both, the optimal play is to read everything and carry everything, and
-evidence *selection* stops being a decision.
-
-<table>
-<tr>
-<td width="25%" align="center"><b>4</b><br>carry slots</td>
-<td width="25%" align="center"><b>6–8</b><br>Route Tokens</td>
-<td width="25%" align="center"><b>40</b><br>artifacts</td>
-<td width="25%" align="center"><b>8</b><br>worlds</td>
-</tr>
-</table>
-
-<br>
-
-### 3. The Gate holds you to exactly that line
-
-<table>
-<tr>
-<td width="38%">
-<img src="assets/gate-routine.jpg" alt="The Gate" width="100%">
-</td>
-<td width="62%">
-
-The machine weighs what was actually carried against the line that was drawn. It
-holds you to that line **no more and no less** — being over-cautious is a failure
-too.
-
-It distinguishes two completely different lessons:
-
-- **Proofline failure** — the threshold itself was wrong. Too weak for a dangerous
-  action, too strict for a harmless one, or demanding evidence that could not bear
-  on the question.
-- **Selection failure** — the threshold was sound, but the wrong artifacts were
-  carried.
-
-And it separates *enough* from *reassuring*. You can draw a properly demanding
-line, gather genuinely strong and relevant evidence, and have every piece of it be
-a **warning**. *"Buyer protection disappears the moment you pay outside the
-marketplace"* completely satisfies a Transparency requirement — and is the best
-reason in the world not to proceed. The Gate reports both facts.
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-## The cost of checking
-
-<img src="assets/carry-rack.jpg" alt="The carry rack" width="100%">
-
-<div align="center"><i>Reading one thing properly means not reading another.</i></div>
-
-<br>
-
----
-
-## Beyond the page
-
-<img src="assets/desk-leap.jpg" alt="Leaving the page" width="100%">
-
-Pip is a tiny illustrated hero who lives inside a living storybook — and can leap
-beyond its pages onto the vast handcrafted desk the book is lying on, and walk
-into the media worlds a claim came from.
-
-<br>
-
----
-
-## Calibration beats reflex
-
-False trust costs **Safety**. False suspicion costs **Opportunity**. Measured
-across all three cases:
+## 👥 Team
 
 <div align="center">
 
-| strategy | Safety | Opportunity | total |
-|:---|:---:|:---:|:---:|
-| **calibrated** | 100 | 48 | **148** |
-| always pause | 100 | 36 | 136 |
-| always proceed | 36 | 100 | 136 |
+<table>
+  <tr>
+    <td width="220" align="center" valign="top" style="width:220px;text-align:center;vertical-align:top">
+      <a href="https://github.com/aththariq" style="display:inline-block">
+        <img src="assets/team/attar.png" width="120" height="120" alt="Aththariq Lisan Qur'an Daulah Sentono" style="border-radius:50%;margin:0" />
+      </a>
+      <br /><br />
+      <b>Aththariq Lisan Qur'an Daulah Sentono</b><br />
+      Product &amp; Game Direction
+      <br /><br />
+      <a href="https://github.com/aththariq" style="display:inline-block">
+        <img src="assets/github.svg" width="14" height="14" alt="" style="display:inline-block;vertical-align:middle;margin:0" />
+        aththariq
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/in/aththariqlisan/" style="display:inline-block">
+        <img src="assets/linkedin.svg" width="14" height="14" alt="" style="display:inline-block;vertical-align:middle;margin:0" />
+        aththariqlisan
+      </a>
+    </td>
+    <td width="220" align="center" valign="top" style="width:220px;text-align:center;vertical-align:top">
+      <a href="https://github.com/rafidhiyaulh" style="display:inline-block">
+        <img src="assets/team/rafi.png" width="120" height="120" alt="Muhammad Rafi Dhiyaulhaq" style="border-radius:50%;margin:0" />
+      </a>
+      <br /><br />
+      <b>Muhammad Rafi Dhiyaulhaq</b><br />
+      Narrative &amp; Presentation
+      <br /><br />
+      <a href="https://github.com/rafidhiyaulh" style="display:inline-block">
+        <img src="assets/github.svg" width="14" height="14" alt="" style="display:inline-block;vertical-align:middle;margin:0" />
+        rafidhiyaulh
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/in/rafidhiyaulh/" style="display:inline-block">
+        <img src="assets/linkedin.svg" width="14" height="14" alt="" style="display:inline-block;vertical-align:middle;margin:0" />
+        rafidhiyaulh
+      </a>
+    </td>
+    <td width="220" align="center" valign="top" style="width:220px;text-align:center;vertical-align:top">
+      <a href="https://github.com/Reasondro" style="display:inline-block">
+        <img src="assets/team/alessandro.png" width="120" height="120" alt="Alessandro Jusack Hasian" style="border-radius:50%;margin:0" />
+      </a>
+      <br /><br />
+      <b>Alessandro Jusack Hasian</b><br />
+      Game Development Support
+      <br /><br />
+      <a href="https://github.com/Reasondro" style="display:inline-block">
+        <img src="assets/github.svg" width="14" height="14" alt="" style="display:inline-block;vertical-align:middle;margin:0" />
+        Reasondro
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/in/alessandro-j-h/" style="display:inline-block">
+        <img src="assets/linkedin.svg" width="14" height="14" alt="" style="display:inline-block;vertical-align:middle;margin:0" />
+        alessandro-j-h
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="220" align="center" valign="top" style="width:220px;text-align:center;vertical-align:top">
+      <a href="https://github.com/RunningPie" style="display:inline-block">
+        <img src="assets/team/dama.png" width="120" height="120" alt="Dama Dhananjaya Daliman" style="border-radius:50%;margin:0" />
+      </a>
+      <br /><br />
+      <b>Dama Dhananjaya Daliman</b><br />
+      Game Integration
+      <br /><br />
+      <a href="https://github.com/RunningPie" style="display:inline-block">
+        <img src="assets/github.svg" width="14" height="14" alt="" style="display:inline-block;vertical-align:middle;margin:0" />
+        RunningPie
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/in/damaddaliman/" style="display:inline-block">
+        <img src="assets/linkedin.svg" width="14" height="14" alt="" style="display:inline-block;vertical-align:middle;margin:0" />
+        damaddaliman
+      </a>
+    </td>
+    <td width="220" align="center" valign="top" style="width:220px;text-align:center;vertical-align:top">
+      <a href="https://github.com/EleanorCordelia" style="display:inline-block">
+        <img src="assets/team/eleanor.png" width="120" height="120" alt="Eleanor Cordelia" style="border-radius:50%;margin:0" />
+      </a>
+      <br /><br />
+      <b>Eleanor Cordelia</b><br />
+      Research &amp; Visual Communication
+      <br /><br />
+      <a href="https://github.com/EleanorCordelia" style="display:inline-block">
+        <img src="assets/github.svg" width="14" height="14" alt="" style="display:inline-block;vertical-align:middle;margin:0" />
+        EleanorCordelia
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/in/eleanorcordelia/" style="display:inline-block">
+        <img src="assets/linkedin.svg" width="14" height="14" alt="" style="display:inline-block;vertical-align:middle;margin:0" />
+        eleanorcordelia
+      </a>
+    </td>
+    <td width="220" align="center" valign="top" style="width:220px;text-align:center;vertical-align:top">
+      <a href="https://github.com/faizath" style="display:inline-block">
+        <img src="assets/team/faiz.png" width="120" height="120" alt="Muhammad Faiz Atharrahman" style="border-radius:50%;margin:0" />
+      </a>
+      <br /><br />
+      <b>Muhammad Faiz Atharrahman</b><br />
+      Testing &amp; Quality
+      <br /><br />
+      <a href="https://github.com/faizath" style="display:inline-block">
+        <img src="assets/github.svg" width="14" height="14" alt="" style="display:inline-block;vertical-align:middle;margin:0" />
+        faizath
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/in/faizath/" style="display:inline-block">
+        <img src="assets/linkedin.svg" width="14" height="14" alt="" style="display:inline-block;vertical-align:middle;margin:0" />
+        faizath
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-Always pausing loses. So does always proceeding.
+---
 
-> Some suspicious-looking opportunities are legitimate. Some beautiful,
-> professional, VERIFIED-badged experiences are dangerous.
+## ❓ Problem → 💡 Solution
 
-<br>
+| ❓ Problem | 💡 How Proofline solves it |
+|---|---|
+| **Scam quizzes teach surface cues** — "real or fake" games train rules like *countdowns mean scam* and *verified badges mean safe*, which break the first time a real seller runs a real sale. | **Judge the action, not the claim** — the same StudyBox offer returns with a riskier action attached, so the player learns that the evidence needed depends on what they are being asked to do. |
+| **Standards set after looking become excuses** — people decide what counts as enough once they have seen what they found. | **Draw the line first** — the proof line (Provenance, Transparency, Corroboration and how many separate sources must agree) is locked in before any evidence appears. |
+| **When checking is free, choosing isn't a skill** — with unlimited time, the best play is to read everything. | **Route Tokens and four carry slots** — reading closely costs a token and only four pieces of evidence reach the Gate, so the player has to decide what is worth checking. |
+| **Suspicion gets treated as the safe answer** — always saying no looks careful but throws away real opportunities. | **The Gate scores both mistakes** — false trust costs Safety and false suspicion costs Opportunity. A calibrated player scores 148; always pausing or always proceeding scores 136. |
 
 ---
 
-## Designed to be playable by anyone
-
-- **Subtitles are never optional.** Every spoken line is subtitled and names its
-  speaker.
-- **`prefers-reduced-motion` is honoured** throughout the HUD and the world.
-- **Tells read with colour switched off** — enemy and evidence cues are designed
-  to survive a colourblind player, a bright room, or a busy background.
-- **Gamepad and keyboard** both fully supported.
-- **No install, no account, no cost.** It opens in a browser, and nothing is sent
-  anywhere once it has loaded.
-
-<br>
-
----
-
-## Built with
-
-**One runtime dependency.** `three` — that is the entire production dependency
-list. Built with TypeScript 5.9 and Vite 7, deployed on Cloudflare Pages.
-
-Every texture, sound, character and letterform in the game is **generated at
-runtime from code**. The only raster files that ship are the application icon in
-two sizes and the boot-splash wordmark.
-
-Source is closed during judging — the game itself is fully playable right now at
-**[proofline.pages.dev](https://proofline.pages.dev/)**, with no install and no account.
-
-<br>
-
----
-
-## The team
-
-> Six contributors share one product responsibility: turn a real scam-pressure
-> moment into a game that can be played, discussed, and improved.
+## 📸 Screenshots
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="assets/team/attar.png" width="120" alt="Aththariq Lisan Qur'an Daulah Sentono"><br>
-<b>Aththariq Lisan Qur'an Daulah Sentono</b><br>
-<sub>Product &amp; Game Direction</sub><br><br>
-<a href="https://github.com/aththariq"><img src="https://img.shields.io/badge/aththariq-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @aththariq"></a><br>
-<a href="https://www.linkedin.com/in/aththariqlisan/"><img src="https://img.shields.io/badge/aththariqlisan-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&style=flat-square" alt="LinkedIn aththariqlisan"></a>
-</td>
-<td align="center" width="33%">
-<img src="assets/team/rafi.png" width="120" alt="Muhammad Rafi Dhiyaulhaq"><br>
-<b>Muhammad Rafi Dhiyaulhaq</b><br>
-<sub>Narrative &amp; Presentation</sub><br><br>
-<a href="https://github.com/rafidhiyaulh"><img src="https://img.shields.io/badge/rafidhiyaulh-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @rafidhiyaulh"></a><br>
-<a href="https://www.linkedin.com/in/rafidhiyaulh/"><img src="https://img.shields.io/badge/rafidhiyaulh-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&style=flat-square" alt="LinkedIn rafidhiyaulh"></a>
-</td>
-<td align="center" width="33%">
-<img src="assets/team/alessandro.png" width="120" alt="Alessandro Jusack Hasian"><br>
-<b>Alessandro Jusack Hasian</b><br>
-<sub>Game Development Support</sub><br><br>
-<a href="https://github.com/Reasondro"><img src="https://img.shields.io/badge/Reasondro-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @Reasondro"></a><br>
-<a href="https://www.linkedin.com/in/alessandro-j-h/"><img src="https://img.shields.io/badge/alessandro--j--h-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&style=flat-square" alt="LinkedIn alessandro-j-h"></a>
-</td>
+<td width="33%" align="center"><b>The claim comes on a page</b><br><br><img src="assets/screenshots/1.webp" alt="Pop-up storybook world with the StudyBox School Laptop billboard and the sign Everyone else said yes first" width="100%"></td>
+<td width="33%" align="center"><b>An action to take on it</b><br><br><img src="assets/screenshots/2.webp" alt="Claim card reading Save this offer to compare with other laptops later" width="100%"></td>
+<td width="33%" align="center"><b>Draw the proof line first</b><br><br><img src="assets/screenshots/3.webp" alt="The proof-line graph drawn on the storybook page before any evidence is seen" width="100%"></td>
 </tr>
 <tr>
-<td align="center" width="33%">
-<img src="assets/team/dama.png" width="120" alt="Dama Dhananjaya Daliman"><br>
-<b>Dama Dhananjaya Daliman</b><br>
-<sub>Game Integration</sub><br><br>
-<a href="https://github.com/RunningPie"><img src="https://img.shields.io/badge/RunningPie-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @RunningPie"></a><br>
-<a href="https://www.linkedin.com/in/damaddaliman/"><img src="https://img.shields.io/badge/damaddaliman-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&style=flat-square" alt="LinkedIn damaddaliman"></a>
-</td>
-<td align="center" width="33%">
-<img src="assets/team/eleanor.png" width="120" alt="Eleanor Cordelia"><br>
-<b>Eleanor Cordelia</b><br>
-<sub>Research &amp; Visual Communication</sub><br><br>
-<a href="https://github.com/EleanorCordelia"><img src="https://img.shields.io/badge/EleanorCordelia-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @EleanorCordelia"></a><br>
-<a href="https://www.linkedin.com/in/eleanorcordelia/"><img src="https://img.shields.io/badge/eleanorcordelia-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&style=flat-square" alt="LinkedIn eleanorcordelia"></a>
-</td>
-<td align="center" width="33%">
-<img src="assets/team/faiz.png" width="120" alt="Muhammad Faiz Atharrahman"><br>
-<b>Muhammad Faiz Atharrahman</b><br>
-<sub>Testing &amp; Quality</sub><br><br>
-<a href="https://github.com/faizath"><img src="https://img.shields.io/badge/faizath-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub @faizath"></a><br>
-<a href="https://www.linkedin.com/in/faizath/"><img src="https://img.shields.io/badge/faizath-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&style=flat-square" alt="LinkedIn faizath"></a>
-</td>
+<td width="33%" align="center"><b>Off the page, onto the desk</b><br><br><img src="assets/screenshots/4.webp" alt="The storybook lying on a desk among giant pencils as Pip steps off the page" width="100%"></td>
+<td width="33%" align="center"><b>The Hurry blocks the way</b><br><br><img src="assets/screenshots/5.webp" alt="Pip fighting The Hurry obstacle in a debris field" width="100%"></td>
+<td width="33%" align="center"><b>Reading closely costs a token</b><br><br><img src="assets/screenshots/6.webp" alt="An evidence stake with the prompt Read (1 token): A long piece from a real newsroom" width="100%"></td>
+</tr>
+<tr>
+<td width="33%" align="center"><b>Pick what's worth checking</b><br><br><img src="assets/screenshots/7.webp" alt="A storefront evidence stake in the Product Kingdom with the Route Token counter showing" width="100%"></td>
+<td width="33%" align="center"><b>Present what you found</b><br><br><img src="assets/screenshots/8.webp" alt="The doorkeeper tower on the desk, marked What is enough" width="100%"></td>
+<td width="33%" align="center"><b>Held to your own rule</b><br><br><img src="assets/screenshots/9.webp" alt="The verdict card reading the threshold held, comparing the carried evidence with the line that was drawn" width="100%"></td>
 </tr>
 </table>
 
-<br>
+---
+
+## 📦 Repositories
+
+| Repository | Description | Tech Stack | Deployment |
+|---|---|---|---|
+| [**proofline-games**](https://github.com/proofline-edu/proofline-games) | *Beyond the Page*, the browser game. Every texture, sound and character is generated at runtime from code. | TypeScript · Three.js · Vite · WebGL | [proofline.pages.dev](https://proofline.pages.dev) |
+| [**proofline-mobile**](https://github.com/proofline-edu/proofline-mobile) | React Native + Expo port of the game for Android and iOS. | TypeScript · React Native · Expo · expo-gl | — |
+| [**.github**](https://github.com/proofline-edu/.github) | This organization profile and its assets. | Markdown | — |
 
 ---
 
 <div align="center">
-
-**[▶ Play Beyond the Page](https://proofline.pages.dev/)**
-
-<sub>🏆UNESCO Youth Hackathon 2026 Project</sub>
-
+<sub>© 2026 Proofline Team</sub>
 </div>
